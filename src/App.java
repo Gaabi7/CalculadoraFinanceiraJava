@@ -43,7 +43,7 @@ public class App {
                 continue; // Volta ao início do loop
             }
 
-            System.out.printf("montante final apos %.0f anos: R$ %2f\n", t, montante );
+            System.out.printf("Montante final apos %.0f anos: R$ %2f\n", t, montante );
 
             //Pergunta se o Usuario deseja continuar 
             System.out.print("\nDeseja realizar outro cáculo (s/n): ");
@@ -57,7 +57,5 @@ public class App {
 
         scanner.close();
 }
-    
-
         
 }
