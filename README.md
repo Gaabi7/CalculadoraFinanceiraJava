@@ -6,9 +6,9 @@ O usuário pode realizar múltiplos cálculos em sequência, com a opção de en
 ##
 
 Funcionalidades:
-Entrada do valor inicial investido/n
-Escolha da taxa de juros anual (%)
-Definição do período de investimento (em anos)
-Opção entre capitalização simples ou composta
-Cálculo e exibição do montante final
-Possibilidade de realizar novos cálculos em sequência
+Entrada do valor inicial investido/n  
+Escolha da taxa de juros anual (%)  
+Definição do período de investimento (em anos)  
+Opção entre capitalização simples ou composta  
+Cálculo e exibição do montante final  
+Possibilidade de realizar novos cálculos em sequência  
